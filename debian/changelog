@@ -1,0 +1,7 @@
+qca2-plugin-cyrus-sasl (2.0.0~beta3-1) UNRELEASED; urgency=low
+
+  +++ Changes by Matthew Rosewarne:
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 08 Feb 2008 22:54:17 -0500
